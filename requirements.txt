@@ -1,0 +1,221 @@
+Pearson BTEC International Level 3 Certificate, Subsidiary Diploma, 
+Foundation Diploma, Diploma, Extended Diploma
+June 2025 – Version 1
+Recommended time 20 hours
+Information Technology
+Paper 
+reference
+UNIT 1: Information Technology Systems
+Pearson Set Assignment Brief
+Single Part Assessment
+For use with:
+41055M
+Pearson BTEC International Level 3 qualifications in Information Technology
+W84396A
+©2025 Pearson Education Ltd.
+1/1
+Continue    
+Instructions to Teachers/Tutors
+The Pearson Set Assignment will be assessed internally by the centre using the unit 
+Assessment Criteria detailed in the qualification specification. The assignment will 
+be sampled by the Standards Verifier as part of the standards verification annual 
+centre visit.
+Conditions of supervision
+The Pearson Set Assignment should be undertaken in conditions that assure the 
+authenticity of outcome. This may require supervision.
+We advise that the Pearson Set Assignment be completed in sessions that come to a 
+total of 20 hours. The Pearson Set Assignment should not be shared with learners prior 
+to the start of the assessment period. Teachers/tutors are responsible for security of the 
+Pearson Set Assignment and materials.
+Outcomes for submission
+Learners must complete this Set Assignment on a computer, using office productivity 
+software. Learners must save their work regularly and ensure that all materials can be 
+identified as their work.
+Learners must submit their own, independent work as detailed in the set assignment. 
+Each learner must complete an authentication sheet.
+2
+W84396A
+Continue    
+Instructions to Learners
+Read the Set Assignment Information carefully.
+You will be asked to carry out specific activities using the information provided. You will 
+be given a specific time period to complete the assignment.
+At all times you must work independently and must not share your work with other 
+learners. You must complete an authentication sheet and submit this along with 
+your work.
+3
+W84396A
+Continue    
+Set Assignment Information
+Leshev Outfitters is a shop outfitting service.
+The company designs and refurbishes the interior layout and furniture for retail units. It 
+provides a range of services including:
+• design of unique store layouts
+• manufacture and installation of unique retail furniture
+• ongoing maintenance of existing retail spaces
+• seasonal decoration and redesign.
+Leshev Outfitters has seen an increase in business recently and has purchased new 
+premises, which includes:
+• a reception area
+• an office area
+• a workshop where furniture and other shop components are made
+• a small warehouse where tools and materials are stored.
+The new premises does not have any infrastructure installed.
+The company employs 10 people; Taylor Leshev (the owner and manager) and nine 
+other workers.
+You have been hired by Taylor as an information technology (IT) professional to help 
+plan how he could use IT to meet the changing needs of the growing business.
+Table 1 gives information on the expected needs of the company. The table includes 
+details of staff, key tasks to be performed and the IT requirements of the company.
+4
+W84396A
+Continue    
+5
+Continue     
+W84396A
+Staff information
+Name and job role Tasks to perform
+Taylor Leshev (Manager) 
+(remote working and 
+office based)
+• Manage the company’s budget.
+• Manage the company’s payroll.
+• Check and monitor the work of all staff.
+• Organise staff work schedules.
+• Communicate with clients.
+• Work in the workshop as required.
+• Advertise the company.
+• Carry out public relations.
+Admin Staff (×2) • Organise outfitters’ schedules.
+• Support customers by booking/rearranging appointments.
+• Calculate the costs of jobs based on outfitters’ needs analysis.
+• Manage billings and payments.
+• Deal with enquiries from current and new customers.
+• Maintain central records.
+• Advertise the company.
+• Carry out public relations.
+• Manage digital records of materials and tool in the warehouse.
+Outfitters (×7) • Design and manufacture shop components and furniture.
+• Manage the warehouse including:
+ –ensure materials and tools are properly stored
+ –update stock records.
+• Visit customers to:
+ –discuss needs
+ –provide outfitting services.
+IT requirements
+• IT access for all staff to carry out their listed tasks effectively.
+• Data storage for staff and customer records.
+• Create a daily schedule of tasks/jobs.
+• Efficient distribution of schedules/job lists to staff as required.
+• Allow customers to manage their accounts and place orders online.
+• Allow staff to communicate throughout the day, including:
+ –updates on stock levels in the warehouse
+ –requesting additional tools and materials
+ –provide progress updates (e.g. job running late or finished early)
+ –record and submit the outcomes of needs analysis
+ –help with finding locations of jobs.
+• Allow effective communication between all stakeholders.
+• Allow customers to make/amend appointments.
+Additional information
+• Each outfitter is provided with a van that is used to carry materials and tools to each job.
+Table 1
+Set Assignment
+You must complete ALL activities.
+Activity 1 – suggested time 6 hours
+Produce a report for Taylor Leshev evaluating how IT infrastructure could be used to 
+meet the needs of Leshev Outfitters.
+The report should:
+• explore ways in which software, hardware, data connections, networks and 
+emerging technologies can meet the needs of the company and its stakeholders
+• explore the impact of IT infrastructure on the company and its stakeholders
+• provide justified recommendations for an IT infrastructure solution for the company.
+It is suggested that you use a combination of written, tabulated and diagrammatic 
+information in your report.
+This activity covers learning aim A.
+A.P1, A.P2, A.P3, A.M1, A.D1
+Activity 2 – suggested time 6 hours
+Produce a report for Taylor Leshev analysing how data and information can be used to 
+meet the needs of Leshev Outfitters and its stakeholders.
+The report should consider:
+• internal and external uses of data and information
+• how and why Leshev Outfitters will make use of data and information (internally 
+and externally)
+• ways in which information technology can support the use of data and information
+• ways in which online communities can support the use of data and information
+• ways in which data can be used and manipulated.
+This activity covers learning aim B.
+B.P4, B.P5, B.M2
+6
+W84396A
+Continue    
+Activity 3 – suggested time 5 hours
+Leshev Outfitters requires policies to communicate how IT should be used in 
+the company.
+Produce a policy document for Leshev Outfitters, recommending how the company’s 
+staff should make use of IT so that they operate in a legal, moral, ethical and 
+safe manner.
+The policies should cover issues associated with Leshev Outfitters’ use of IT and how 
+these can be addressed, including:
+• defining potential threats to data, information and systems
+• exploring processes and procedures that should be put in place by the organisation 
+to protect data
+• exploring moral and ethical issues
+• legal issues associated with the use of IT
+• relevant professional guidelines and codes of practice
+• managing infrastructure, data, information and users.
+This activity covers learning aim C.
+C.P6, C.P7, C.P8
+Activity 4 – suggested time 3 hours
+Taylor Leshev has asked you to justify the recommendations you have made for the 
+company in Activities 2 and 3.
+You must evaluate the decisions you made about data, information and policies.
+Produce a report that:
+• considers alternative ways that data and information could have been used 
+and communicated
+• explores the impact on the company and its stakeholders of:– internal and external threats– ways of mitigating threats– procedures for working in a legal and ethical way
+• provides detailed and supported evaluation of the impact the use of both data and 
+information has on:– the company– the company’s stakeholders– policies to be implemented
+• provides a supported justification of any decisions you made when 
+developing policies.
+This activity covers learning aims B and C.
+C.M3, C.M4, BC.D2, BC.D3
+7
+W84396A
+Continue    
+8 W84396A
+Assessment criteria
+Learning aim A: Explore how IT infrastructure meets the needs of organisations and 
+their stakeholders
+A.P1 Explain ways in which software can meet the needs of an organisation and 
+its stakeholders.
+A.P2 Explain ways in which hardware can meet the needs of an organisation and 
+its stakeholders.
+A.P3 Explain ways in which the use of data connections and networks can meet the needs of 
+an organisation and its stakeholders.
+A.M1 Analyse how IT infrastructure can impact an organisation and its stakeholders.
+A.D1 Evaluate how IT infrastructure can impact an organisation and its stakeholders.
+Learning aim B: Understand how organisations make use of data and information
+B.P4 Explain ways in which data is used in an organisation.
+B.P5 Explain ways in which information is used and distributed by an organisation, both 
+internally and externally.
+B.M2 Analyse how data and information are used in an organisation, both internally 
+and externally.
+BC.D2 Evaluate the impact of the use of data and information on an organisation, its 
+stakeholders and related policies.
+BC.D3 Justify decisions and approaches taken when developing policies.
+Learning aim C: Develop policies for the use of IT within an organisation
+C.P6 Describe internal and external threats, to data and information, in an organisation.
+C.P7 Describe procedures to be implemented in an organisation to allow them to protect data 
+and information.
+C.P8 Describe procedures to be implemented in an organisation to allow them to operate in 
+legal, moral and ethical ways.
+C.M3 Analyse how threats, and mitigation of those threats, impact an organisation and 
+its stakeholders.
+C.M4 Analyse how suggested procedures that ensure an organisation works in a legal and 
+ethical way would impact on an organisation and its stakeholders.
+Key
+P = Pass
+M = Merit
+D = Distinction
+Note:  BC.D2 covers both learning aims B & C. 
+BC.D3 covers both learning aims B & C.
