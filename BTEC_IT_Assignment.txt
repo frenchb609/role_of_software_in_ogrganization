@@ -1,0 +1,82 @@
+BTEC IT Unit 1 Assignment - Leshev Outfitters
+
+ACTIVITY 1: IT Infrastructure Report
+
+Introduction: Leshev Outfitters requires a complete IT infrastructure to
+support business growth, including communication, design,
+administration, and customer interaction.
+
+Software Solutions: - Microsoft 365 (Word, Excel, Outlook) for office
+tasks - QuickBooks/Xero for accounting - Salesforce CRM for customer
+management - AutoCAD/SketchUp for design - Slack/Microsoft Teams for
+communication - Monday.com/Google Calendar for scheduling
+
+Hardware Solutions: - Desktop PCs (admin staff) - Laptops (manager) -
+Tablets/smartphones (outfitters) - Printers/scanners - CAD-capable
+computers - Storage devices (NAS/cloud)
+
+Networks & Data Connections: - LAN for internal communication -
+High-speed internet connection - Wi-Fi for mobile access - Cloud
+computing for remote access
+
+Emerging Technologies: - IoT for inventory tracking - AI chatbots for
+customer service - Cloud collaboration tools
+
+Impact of IT Infrastructure: Positive: - Increased efficiency - Better
+communication - Improved customer service Negative: - High cost -
+Training required - Security risks
+
+Recommendations: - Use cloud-based systems - Implement CRM and
+accounting software - Provide mobile devices - Secure network setup
+
+------------------------------------------------------------------------
+
+ACTIVITY 2: Data & Information
+
+Use of Data: Internal: - Employee records - Payroll - Stock levels
+External: - Customer details - Supplier info
+
+Use of Information: Internal: - Reports and schedules External: -
+Invoices - Marketing
+
+IT Support: - Databases - Cloud storage - Data analytics tools
+
+Online Communities: - Social media - Customer feedback platforms
+
+Data Manipulation: - Sorting - Filtering - Calculations
+
+Analysis: Data and information improve efficiency, decision-making, and
+communication.
+
+------------------------------------------------------------------------
+
+ACTIVITY 3: IT Policy
+
+Threats: Internal: - Human error External: - Malware - Hacking -
+Phishing
+
+Protection: - Firewalls - Antivirus - Encryption - Backups - Password
+control
+
+Legal/Ethical: - Follow GDPR principles - Respect privacy - Professional
+conduct
+
+Management: - Staff training - Acceptable use policies - Monitoring
+systems
+
+------------------------------------------------------------------------
+
+ACTIVITY 4: Evaluation
+
+Alternative Approaches: - On-premise vs cloud systems - Manual vs
+automated systems
+
+Impact of Threats: - Data loss - Financial loss - Reputation damage
+
+Mitigation: - Improved security - Customer trust
+
+Impact of Data Use: - Better decisions - Improved efficiency - Enhanced
+communication
+
+Policy Justification: - Protects data - Ensures legal compliance -
+Maintains ethical standards
